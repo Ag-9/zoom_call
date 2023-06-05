@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68422823772",
+    "project_id": "zoom-call-f9feb",
+    "storage_bucket": "zoom-call-f9feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68422823772:android:ee9fe674c50970daef1b99",
+        "android_client_info": {
+          "package_name": "com.example.zoom_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68422823772-ie66b30bs19m2bvctu2p8s128bech3hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5L_kjh-CtERgzLCMHJMUV5a7sLuJ69kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68422823772-ie66b30bs19m2bvctu2p8s128bech3hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
